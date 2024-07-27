@@ -1,8 +1,6 @@
-# Land Use and Land Cover Classification with Sentinel-2
+# Project Overview
 Satellite Image Classification using Deep Learning.
 This project focuses on land use and land cover classification using the EuroSAT dataset, leveraging deep learning techniques and convolutional neural networks (CNNs). The model achieved an accuracy of 85.23%, utilizing a stage-wise implementation of the popular ResNet50 architecture.
-
-### Project Overview
 
 ## Dataset
 The EuroSAT dataset consists of 27,000 RGB images captured by the Sentinel-2 satellite. These images are labeled into 10 different land use and land cover classes:
